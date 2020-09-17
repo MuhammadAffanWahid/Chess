@@ -1,0 +1,45 @@
+rhbkqbhr
+pppppppp
+--------
+--------
+--------
+--------
+PPPPPPPP
+RHBKQBHR
+
+--------
+--------
+--------
+--------
+--------
+--------
+--------
+----K---
+
+
+
+
+rhb--bhr
+--------
+--------
+--------
+--------
+--------
+--------
+RHB--BHR
+
+		/*setfillstyle(SOLID_FILL, color);
+		rectangle(ci * 100, ri * 100, (ci + 1) * 100 - 0, (ri + 1) * 100 - 0);
+		rectangle(ci * 100 + sync, ri * 100 + sync, (ci + 1) * 100 - 0 - sync, (ri + 1) * 100 - 0 - sync);
+		floodfill(ci * 100 + 1, ri * 100 + 1, color);
+		if(B[][])*/
+		//if (B[ri][ci] == nullptr)
+		//{
+		//	int c00l0r;
+		//	if ((ri + ci) % 2 == 0)
+		//		c00l0r = 7;
+		//	else
+		//	c00l0r = 8;
+		//	setfillstyle(SOLID_FILL, c00l0r);
+		//	rectangle(ci * 100, ri * 100, (ci + 1) * 100 - 0, (ri + 1) * 100 - 0);
+		//}
